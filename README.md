@@ -1,3 +1,29 @@
+# 👋 Hi there  
+
+I'm **Carlos**, a passionate junior developer currently studying **Engineering Informatics** and building my path in the software development world. I enjoy exploring different areas of technology—backend, web development, cloud fundamentals, cybersecurity, databases, and more. My goal is to create clean, efficient and scalable solutions while continuously learning and improving my technical skills.
+
+With experience working on academic and personal projects, I’ve developed a strong foundation in problem-solving, software design principles, and modern development practices. I enjoy turning ideas into functional projects, understanding how things work behind the scenes, and learning new tools that help me grow as a developer.
+
+---
+
+# 🚀 Expertise  
+
+I'm focused on strengthening my skills across multiple areas of development:
+
+- **Web development:** building responsive, structured and maintainable applications.  
+- **Backend fundamentals:** designing APIs, managing data flow, and understanding system architecture.  
+- **Databases:** working with relational and non-relational systems to create organized and efficient data models.  
+- **Software testing & security basics:** ensuring quality, stability and applying good security practices.  
+- **Cloud & infrastructure concepts:** exploring how applications scale, deploy and integrate with cloud environments.  
+- **Technical support & networking:** understanding how systems communicate and operate in real environments.
+
+I enjoy learning through practice—experimenting, breaking things, fixing them, and discovering better ways to build software. For me, every project is an opportunity to grow, refine my skills and explore new technologies.
+
+Outside of coding, I like diving into tech topics, improving existing projects, and expanding my knowledge in different fields of computing.
+
+---
+
+# 💻 Tech Stack  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-armando-ordoñez-cruz-363632374) 
